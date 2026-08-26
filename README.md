@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Sonoxo fork status — upstream project**
+>
+> This repository is a Sonoxo-owned fork used for compatibility and integration experiments. The original project is maintained by [LangChain contributors](https://github.com/langchain-ai/langchain); its branding, documentation, licenses, releases, and support channels remain upstream. Sonoxo does **not** claim authorship, official affiliation, endorsement, or that this fork is currently synchronized, tested, or production-ready. Check the [canonical repository](https://github.com/langchain-ai/langchain) before installing or contributing.
+
+---
+
 <div align="center">
   <a href="https://docs.langchain.com/oss/python/langchain/overview">
     <picture>
